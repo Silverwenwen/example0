@@ -6,3 +6,4 @@ Some features of Markdown:
 - __hold text__ with two underscore
 - _italics_ with one underscore
 - **asterisks** also works
+- [link to google](http://google.com)
