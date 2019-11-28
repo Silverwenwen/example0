@@ -1,2 +1,2 @@
 # example0
-example repository for the swc workshop
+Example repository for the swc workshop at CERN on 28/11/2019
