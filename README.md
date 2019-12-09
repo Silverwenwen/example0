@@ -7,3 +7,4 @@ Some features of Markdown:
 - _italics_ with one underscore
 - **asterisks** also works
 - [link to google](http://google.com)
+- [link to somewhere else](http://baidu.com)
